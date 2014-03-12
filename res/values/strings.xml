@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FitnessCoachApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Signin">Please sign in</string>
+    <string name="buttonSignin">Log in</string>
+    <string name="buttonNewAccount">Create New Account</string>
+
+</resources>
