@@ -6,5 +6,6 @@
     <string name="Signin">Please sign in</string>
     <string name="buttonSignin">Log in</string>
     <string name="buttonNewAccount">Create New Account</string>
+    <string name="titleNew">New</string>
 
 </resources>
