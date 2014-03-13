@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="status">
+        <item>Best shape</item>
+        <item>Happy</item>
+        <item>Great</item>
+        <item>Content</item>
+        <item>On a mission</item>
+        <item>OK</item>
+        <item>Better than yesterday</item>
+        <item>Not so well</item>
+        <item>Rather unhappy</item>
+        <item>Sad</item>
+        <item>Tired</item>
+        <item>Sick</item>
+        <item>Dunno</item>
+    </string-array>
+    
+</resources>

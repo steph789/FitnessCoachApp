@@ -7,5 +7,24 @@
     <string name="buttonSignin">Log in</string>
     <string name="buttonNewAccount">Create New Account</string>
     <string name="titleNew">New</string>
+    <string name="tvFirstname">Firstname:</string>
+    <string name="tvLastname">Lastname:</string>
+    <string name="tvUsername">Username:</string>
+    <string name="tvPassword">Password:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvYearbirth">Year of Birth:</string>
+    <string name="tvSex">Gender:</string>
+    <string name="tvHeight">Height in m:</string>
+    <string name="buttonSaveAccount">Create new account for me</string>
+    <string name="tvFemale">female</string>
+    <string name="tvMale">Male</string>
+    <string name="tvRun">Running</string>
+    <string name="tvBike">Biking</string>
+    <string name="tvSwim">Swimming</string>
+    <string name="tvPump">BodyPump</string>
+    <string name="tvYes">Yes</string>
+    <string name="tvNo">No</string>
+    <string name="tvStatus">Status</string>
+    <string name="tvFitnesslevel">Fitness level</string>
 
 </resources>
