@@ -50,8 +50,6 @@
         android:layout_alignTop="@+id/tvLastname"
         android:ems="10"
         android:inputType="textCapWords" >
-
-        <requestFocus />
     </EditText>
 
     <TextView
@@ -71,8 +69,6 @@
         android:layout_alignTop="@+id/tvUsername"
         android:ems="10"
         android:inputType="none" >
-
-        <requestFocus />
     </EditText>
 
     <TextView
@@ -89,11 +85,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/tvUsername"
+        android:layout_alignTop="@+id/tvPassword"
         android:ems="10"
         android:inputType="textPassword" >
-
-        <requestFocus />
     </EditText>
 
     <TextView
@@ -113,7 +107,6 @@
         android:layout_alignTop="@+id/tvEmail"
         android:ems="10"
         android:inputType="textEmailAddress" >
-        <requestFocus />
     </EditText>
 
     <TextView
@@ -185,8 +178,16 @@
         android:layout_alignTop="@+id/tvHeight"
         android:ems="10"
         android:inputType="numberDecimal" >
-        <requestFocus />
     </EditText>
+
+    <Button
+        android:id="@+id/buttonSaveAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvHeight"
+        android:layout_below="@+id/tvHeight"
+        android:layout_marginTop="30dp"
+        android:text="@string/buttonSaveAccount" />
     
     </RelativeLayout> 
     

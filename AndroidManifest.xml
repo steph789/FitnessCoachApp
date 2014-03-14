@@ -27,6 +27,7 @@
 			android:name="de.gerlich.fitnesscoachapp.database.UserProvider"
 			android:authorities="de.gerlich.fitnesscoachapp.database.userprovider" >
 		</provider>
+        <activity android:name="NewAccountActivity"></activity>
     </application>
 
 </manifest>
