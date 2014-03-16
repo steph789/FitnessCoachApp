@@ -2,10 +2,10 @@ package de.gerlich.fitnesscoachapp;
 
 import android.app.Activity;
 import android.content.ContentValues;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.AdapterView;
@@ -82,6 +82,9 @@ public class NewAccountActivity extends Activity {
 				height =Double.parseDouble(editHeight.getText().toString());
 				sex = radioSex.getCheckedRadioButtonId();
 				Log.d("onClick", String.valueOf(radioSex.getCheckedRadioButtonId()));
+				
+				Intent intent = new Intent(NewAccountActivity.this, ProfileActivity.class);
+				startActivity(intent);
 			}
 		});
 	}
