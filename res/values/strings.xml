@@ -26,5 +26,11 @@
     <string name="tvNo">No</string>
     <string name="tvStatus">Status</string>
     <string name="tvFitnesslevel">Fitness level</string>
+    <string name="titleProfile">Profile</string>
+    <string name="titleReport">Report</string>
+    <string name="titleWeightEntry">New Entry</string>
+    <string name="titleWorkout">Workout</string>
+    
+    
 
 </resources>

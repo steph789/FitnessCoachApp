@@ -5,5 +5,29 @@
         android:showAsAction="always"
         android:title="@string/titleNew" >
     </item>
+    
+    <item
+        android:id="@+id/itemProfile"
+        android:showAsAction="always"
+        android:title="@string/titleProfile" >
+    </item>
+    
+    <item
+        android:id="@+id/itemReport"
+        android:showAsAction="always"
+        android:title="@string/titleReport" >
+    </item>
+    
+    <item
+        android:id="@+id/itemWeightEntry"
+        android:showAsAction="always"
+        android:title="@string/titleWeightEntry" >
+    </item>
+    
+    <item
+        android:id="@+id/itemWorkout"
+        android:showAsAction="always"
+        android:title="@string/titleWorkout" >
+    </item>
 
 </menu>
