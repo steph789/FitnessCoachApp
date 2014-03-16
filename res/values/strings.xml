@@ -30,6 +30,9 @@
     <string name="titleReport">Report</string>
     <string name="titleWeightEntry">New Entry</string>
     <string name="titleWorkout">Workout</string>
+    <string name="buttonNewEntry">New Entry</string>
+    <string name="tvCurrentWeight">Current Weight:</string>
+    <string name="tvCurrentBMI">Current BMI:</string>
     
     
 

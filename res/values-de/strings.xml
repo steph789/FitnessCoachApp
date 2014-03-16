@@ -8,7 +8,7 @@
     <string name="buttonNewAccount">Neues Konto erstellen</string>
     <string name="titleNew">Neu</string>
     <string name="tvFirstname">Vorname:</string>
-    <string name="tvLastname">nachname:</string>
+    <string name="tvLastname">Nachname:</string>
     <string name="tvUsername">Username:</string>
     <string name="tvPassword">Passwort:</string>
     <string name="tvEmail">E-Mail:</string>
@@ -30,5 +30,8 @@
     <string name="titleReport">Auswertung</string>
     <string name="titleWeightEntry">Neuer Eintrag</string>
     <string name="titleWorkout">Workout</string>
+    <string name="buttonNewEntry">Neuer Eintrag</string>
+    <string name="tvCurrentWeight">Aktuelles Gewicht:</string>
+    <string name="tvCurrentBMI">Aktueller BMI:</string>
 
 </resources>
